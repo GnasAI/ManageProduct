@@ -1,0 +1,212 @@
+[
+    {
+        "id": "SP001",
+        "name": "Bàn Phím Gaming K618 Super Pro New 2024 ",
+        "description": "Có 104 phím full size, Có đèn led  rực rỡ sang trọng nhiều chế độ đặc sắc",
+        "price": 399000,
+        "in_stock": 111
+    },
+    {
+        "id": "SP002",
+        "name": "Bàn gaming học tập,bàn làm việc",
+        "description": "Mặt gỗ MDF dày 1,5cm phủ melamine chống xước chống ẩm",
+        "price": 439000,
+        "in_stock": 135
+    },
+    {
+        "id": "SP003",
+        "name": "Áo Khoác Cardigan phong cách Hàn Quốc",
+        "description": "Áo Khoác Cardigan phong cách Hàn Quốc, chất dạ ép cao cấp 2 màu dễ mặc dễ phối đồ",
+        "price": 89000,
+        "in_stock": 90
+    },
+    {
+        "id": "SP004",
+        "name": "Dép chữ covernat",
+        "description": "Dép chữ covernat,dép chữ c quai da đế độn cao 4cm 2 màu đen trắng sành điệu sang trọng,dép tôn chiều cao",
+        "price": 69000,
+        "in_stock": 40
+    },
+    {
+        "id": "SP005",
+        "name": "Dây nhảy lõi cáp thép",
+        "description": "Dây nhảy 160g: Gồm có hai tay nắm và một sợi dây cáp thép , tổng trọng lượng dây 160g",
+        "price": 5000,
+        "in_stock": 175
+    },
+    {
+        "id": "SP006",
+        "name": "Áo Sweater Nam Form Rộng Phối Layer Chất Nỉ Unisex",
+        "description": "Áo Sweater Nam Form Rộng Phối Layer Chất Nỉ Unisex Thời Trang Trẻ Trung VESCA M10",
+        "price": 119000,
+        "in_stock": 6838
+    },
+    {
+        "id": "SP007",
+        "name": "Áo Giữ Nhiệt Nam Dài Tay Vải Thun Lạnh Co Giãn 4 Chiều",
+        "description": "Sản phẩm được thiết kế theo đúng form chuẩn của nam giới Việt Nam",
+        "price": 45000,
+        "in_stock": 32175
+    },
+    {
+        "id": "SP008",
+        "name": "Kính cận thị thời trang",
+        "description": " Thiết kế độc đáo",
+        "price": 56000,
+        "in_stock": 11454
+    },
+    {
+        "id": "SP009",
+        "name": "Túi đeo chéo nam Black Rice nhiều ngăn phong cách trẻ trung",
+        "description": "Túi đeo chéo Black Rice vải Canvas phong cách hiện đại",
+        "price": 75000,
+        "in_stock": 2444
+    },
+    {
+        "id": "SP010",
+        "name": "Ví nam Playboy kẻ, Ví da nam nhỏ gọn DODANA dáng ngang da PU",
+        "description": "Thiết kế đơn giản nhằm tạo độ mỏng tối đa",
+        "price": 25000,
+        "in_stock": 1894
+    },
+    {
+        "id": "SP011",
+        "name": "Quạt tản nhiệt mini BLUEWOW DY08 thông dụng hỗ trợ chơi game",
+        "description": "Bộ làm mát có quạt 7 lưỡi, tản nhiệt mạnh mẽ",
+        "price": 85000,
+        "in_stock": 2176
+    },
+    {
+        "id": "SP012",
+        "name": "Vòng Tay Nam Nữ ConJun",
+        "description": "Vòng Tay Nam Nữ ConJun Lắc tay bạc cặp đôi Basic Thiết Kế Sợi Mảnh",
+        "price": 9000,
+        "in_stock": 30
+    },
+    {
+        "id": "SP013",
+        "name": "Tai Nghe Chụp Tai Bluetooth P47, Tai Không Dây Có Mic",
+        "description": "Tai nghe tai có bluetooth cao cấp 5 màu tùy chọn",
+        "price": 45000,
+        "in_stock": 97
+    },
+    {
+        "id": "SP014",
+        "name": "Sữa Rửa Mặt CeraVe SA Smoothing, Hydrating, Foaming Cleanser",
+        "description": "Sữa rửa mặt CeraVe dành cho da dầu mụn, da khô, da nhạy cảm 236ml",
+        "price": 95000,
+        "in_stock": 390
+    },
+    {
+        "id": "SP015",
+        "name": "Viên uống Bổ sung Kẽm ZinC DHC gói 20 viên (20 ngày) ",
+        "description": "Viên uống Bổ sung Kẽm ZinC DHC",
+        "price": 185000,
+        "in_stock": 5607
+    },
+    {
+        "id": "SP016",
+        "name": "Quần short nam essential chất umi thể thao",
+        "description": "Sản phẩm giống hình và mô tả",
+        "price": 45000,
+        "in_stock": 247
+    },
+    {
+        "id": "SP017",
+        "name": "COMBO 3 - 1 gậy bẻ lò xo, 1 kìm bóp tay, 1 dây nhảy lõi thép",
+        "description": "Gậy bẻ cơ tay được làm bằng Thép cao cấp, bọc nhựa PE, lò xo có độ đàn hồi cao",
+        "price": 109000,
+        "in_stock": 1418
+    },
+    {
+        "id": "SP018",
+        "name": "Nồi chiên không dầu CAMEL camel",
+        "description": "Đây là một món quà bất ngờ tốt nhất dành cho gia đình",
+        "price": 99000,
+        "in_stock": 82
+    },
+    {
+        "id": "SP019",
+        "name": "Điện thoại Apple iPhone 15 Pro 128GB",
+        "description": "Bảo hành: 12 tháng kể từ ngày kích hoạt sản phẩm.",
+        "price": 25690000,
+        "in_stock": 325
+    },
+    {
+        "id": "SP020",
+        "name": "Nước tăng lực Sting Dâu/ Vàng chai 330ml",
+        "description": "Nước tăng lực có ga",
+        "price": 7000,
+        "in_stock": 321
+    },
+    {
+        "id": "SP021",
+        "name": "Quần jogger nam nữ AMIHOUSE ống rộng thể thao",
+        "description": "Quần jogger nam nữ ống rộng thể thao ZALOMY bó chun rút gấu Ulzzang Unisex",
+        "price": 89000,
+        "in_stock": 162
+    },
+    {
+        "id": "SP022",
+        "name": "Az Dép Đi Trong Nhà Đế Dày Bằng EVA Hình Trái Sầu Riêng",
+        "description": "Vật liệu duy nhất — EVA",
+        "price": 55000,
+        "in_stock": 1983
+    },
+    {
+        "id": "SP023",
+        "name": "Bộ Đồ Hóa Trang Con Gián Hoạt Hình Vui Nhộn",
+        "description": "Thương hiệu: Lele",
+        "price": 310000,
+        "in_stock": 1665
+    },
+    {
+        "id": "SP024",
+        "name": "ToToo Capybara Búp Bê Nhồi Bông capibala Kiểu Dáng Dễ Thương",
+        "description": "Sản phẩm của chúng tôi có chất lượng cao và giá rẻ",
+        "price": 49000,
+        "in_stock": 375
+    },
+    {
+        "id": "SP025",
+        "name": "Ly Sứ, Cốc Sứ In Hình Mặt Hài Hước, Bựa, Troll, Quà Tặng Độc Đáo",
+        "description": "Cốc uống nước in hình theo yêu cầu là một món quà tặng phổ biến",
+        "price": 35000,
+        "in_stock": 1275
+    },
+    {
+        "id": "SP026",
+        "name": "Ví tiền hình chú ếch Uzumaki Naruto đáng yêu đa năng tiện lợi",
+        "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày",
+        "price": 40000,
+        "in_stock": 17
+    },
+    {
+        "id": "SP027",
+        "name": "Tóc Giả Xoăn Đáng Yêu Cho Thú Cưng",
+        "description": "Dễ dàng vừa vặn, dây thun còn có thể hỗ trợ các phụ kiện khác.",
+        "price": 42000,
+        "in_stock": 21
+    },
+    {
+        "id": "SP028",
+        "name": "Đồ trang trí Shin-chan Mặc Đồ Bơi Mini Dễ Thương",
+        "description": "Thời gian giao hàng dự kiến cho sản phẩm này là 7-9 ngày",
+        "price": 10000,
+        "in_stock": 1752
+    },
+    {
+        "id": "SP029",
+        "name": "Đồ chơi thú nhồi bông hình cá vui nhộn cho mèo cưng",
+        "description": " Vải lông ngắn dày dặn và siêu mềm, in họa tiết có độ nét cao, nhồi cỏ bạc hà chất lượng cao, mùi thơm và lưu hương lâu.",
+        "price": 15000,
+        "in_stock": 2175
+    },
+    {
+        "id": "SP030",
+        "name": "Bộ Bài UNO FLIP - Bài Uno mở rộng, luật chơi hấp dẫn",
+        "description": "Số lá bài: 110 lá",
+        "price": 18000,
+        "in_stock": 283
+    }
+]

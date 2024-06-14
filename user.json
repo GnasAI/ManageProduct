@@ -1,0 +1,32 @@
+[
+    {
+        "username": "user001",
+        "email": "s@mail.com",
+        "password": "matkhauA@1",
+        "level": "Level 2"
+    },
+    {
+        "username": "user002",
+        "email": "s2@mail.com",
+        "password": "matkhauA@1",
+        "level": "Level 2"
+    },
+    {
+        "username": "user003",
+        "email": "sp1868@mail.com",
+        "password": "12345aA@",
+        "level": "Level 2"
+    },
+    {
+        "username": "user004",
+        "email": "s4@mail.com",
+        "password": "matkhauA@1",
+        "level": "Level 1"
+    },
+    {
+        "username": "user005",
+        "email": "s5@mail.com",
+        "password": "matkhauA@1",
+        "level": "Level 1"
+    }
+]
